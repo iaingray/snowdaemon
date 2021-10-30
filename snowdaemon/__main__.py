@@ -1,5 +1,5 @@
 #
-#  Copyright (c) 2020 Quantdeck Systems Ltd. All rights reserved.
+#  Copyright (c) 2021 Devdrop Ltd. All rights reserved.
 #
 #  This program is licensed to you under the Apache License Version 2.0, and
 #  you may not use this file except in compliance with the Apache License
